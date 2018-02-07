@@ -4,6 +4,7 @@ The link for the data set is below:
 https://docs.google.com/spreadsheets/d/16hLtx8bBDe2GS1MOa3v9hY6Yhm4C30koLoCpiIJ5WDg/edit#gid=0
 
 
+
 ### First I renamed the data set (Sampledata)and read it into R#####
 
 ```{r,echo=TRUE}
